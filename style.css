@@ -664,6 +664,14 @@ letter-spacing: .2rem;
         margin:0rem 0rem 2rem 0rem;
         
     }
+    .home{
+    background-position:left 30% right;
+    filter: grayscale(70%);
+    /* display:flex; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
     .box-container{
         flex-direction: column;
         margin-bottom:0;
